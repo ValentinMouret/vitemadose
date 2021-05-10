@@ -418,29 +418,6 @@
     }
   },
   {
-    "gid": "600015a3",
-    "nom": "Centre de vaccination - REVIGNY SUR ORNAIN",
-    "rdv_site_web": "https://www.maiia.com/centre-de-vaccination/55800-revigny-sur-ornain/centre-de-vaccination---revigny-sur-ornain?centerid=600015a379dfd27ec2d189f7",
-    "type": "vaccination-center",
-    "vaccine_type": [
-      "Pfizer-BioNTech"
-    ],
-    "com_insee": "55427",
-    "address": "1 Place Pierre Gaxotte 55800 Revigny-sur-Ornain",
-    "long_coor1": 4.98718,
-    "lat_coor1": 48.828244,
-    "phone_number": "",
-    "business_hours": {
-      "Lundi": "08:00-12:00 14:00-18:00",
-      "Mardi": "08:00-12:00 14:00-18:00",
-      "Mercredi": "08:00-12:00 14:00-18:00",
-      "Jeudi": "08:00-12:00 14:00-18:00",
-      "Vendredi": "08:00-12:00 14:00-18:00",
-      "Samedi": "08:00-12:00 14:00-18:00",
-      "Dimanche": "08:00-12:00 14:00-18:00"
-    }
-  },
-  {
     "gid": "60001f28",
     "nom": "Centre de vaccination La luna (Espace Sculfort)",
     "rdv_site_web": "https://www.maiia.com/centre-de-vaccination/59600-maubeuge/centre-de-vaccination-la-luna--espace-sculfort-?centerid=60001f2879dfd27ec2d18a27",
@@ -500,29 +477,6 @@
     "long_coor1": 2.439625,
     "lat_coor1": 48.886182,
     "phone_number": "+33141831785",
-    "business_hours": {
-      "Lundi": "08:00-12:00 14:00-18:00",
-      "Mardi": "08:00-12:00 14:00-18:00",
-      "Mercredi": "08:00-12:00 14:00-18:00",
-      "Jeudi": "08:00-12:00 14:00-18:00",
-      "Vendredi": "08:00-12:00 14:00-18:00",
-      "Samedi": "08:00-12:00 14:00-18:00",
-      "Dimanche": "08:00-12:00 14:00-18:00"
-    }
-  },
-  {
-    "gid": "600056f4",
-    "nom": "Centre de vaccination - MONTMEDY et MARVILLE",
-    "rdv_site_web": "https://www.maiia.com/centre-de-vaccination/55600-montmedy/centre-de-vaccination---montmedy-et-marville?centerid=600056f47f9ff61ee1d5d2ce",
-    "type": "vaccination-center",
-    "vaccine_type": [
-      "Pfizer-BioNTech"
-    ],
-    "com_insee": "55351",
-    "address": "Salle des f\u00eates, Place Eiug\u00e8ne Tronville 55600 Montm\u00e9dy",
-    "long_coor1": 5.368532,
-    "lat_coor1": 49.521134,
-    "phone_number": "",
     "business_hours": {
       "Lundi": "08:00-12:00 14:00-18:00",
       "Mardi": "08:00-12:00 14:00-18:00",
@@ -921,6 +875,29 @@
     }
   },
   {
+    "gid": "6024fc7c",
+    "nom": "Centre de vaccination d\u2019 ETAIN",
+    "rdv_site_web": "https://www.maiia.com/centre-de-vaccination/55400-etain/centre-de-vaccination-d--etain?centerid=6024fc7c1dc0b7275b739f0c",
+    "type": "vaccination-center",
+    "vaccine_type": [
+      "Pfizer-BioNTech"
+    ],
+    "com_insee": "55181",
+    "address": "Centre de vaccination d\u2019 ETAIN  salle Brasse et Focosi  place du march\u00e9 (derri\u00e8re la mairie) 55400 \u00c9tain",
+    "long_coor1": 5.636335,
+    "lat_coor1": 49.212896,
+    "phone_number": "",
+    "business_hours": {
+      "Lundi": "08:00-12:00 14:00-18:00",
+      "Mardi": "08:00-12:00 14:00-18:00",
+      "Mercredi": "08:00-12:00 14:00-18:00",
+      "Jeudi": "08:00-12:00 14:00-18:00",
+      "Vendredi": "08:00-12:00 14:00-18:00",
+      "Samedi": "08:00-12:00 14:00-18:00",
+      "Dimanche": "08:00-12:00 14:00-18:00"
+    }
+  },
+  {
     "gid": "602ff4cc",
     "nom": "Centre de Vaccination \u2013 Gymnase Saint Roch, Bourg en Bresse",
     "rdv_site_web": "https://www.maiia.com/centre-de-vaccination/01000-bourg-en-bresse/centre-de-vaccination---gymnase-saint-roch--bourg-en-bresse?centerid=602ff4cc423df27f1cb576f0",
@@ -1033,6 +1010,7 @@
     "rdv_site_web": "https://www.maiia.com/centre-de-vaccination/13008-marseille/centre-de-vaccination-covid---stade-velodrome---ville-de-marseille?centerid=6048822b87f983173a70cdc5",
     "type": "vaccination-center",
     "vaccine_type": [
+      "ARNm",
       "Moderna",
       "Pfizer-BioNTech"
     ],
@@ -1125,6 +1103,7 @@
     "rdv_site_web": "https://www.maiia.com/centre-de-vaccination/40800-aire-sur-l-adour/vaccination-moderna---astrazeneca-msp-de-l-adour-?centerid=606187286a4ba23f95fc3a91",
     "type": "vaccination-center",
     "vaccine_type": [
+      "AstraZeneca",
       "Moderna"
     ],
     "com_insee": "40001",
@@ -1304,6 +1283,28 @@
     }
   },
   {
+    "gid": "5fa28ced",
+    "nom": "Pharmacie Guildo",
+    "rdv_site_web": "https://www.maiia.com/pharmacie/22380-saint-cast-le-guildo/pharmacie-guildo?centerid=5fa28cedbaf1175842a308f3",
+    "type": "drugstore",
+    "vaccine_type": [
+      "AstraZeneca"
+    ],
+    "com_insee": "22282",
+    "address": "22 Rue de la Croix aux Merles 22380 Saint-Cast-le-Guildo",
+    "long_coor1": -2.234704,
+    "lat_coor1": 48.582536,
+    "phone_number": "+33296411726",
+    "business_hours": {
+      "Lundi": "09:00-12:15 14:00-19:00",
+      "Mardi": "09:00-12:15 14:00-19:00",
+      "Mercredi": "09:00-12:15 14:00-19:00",
+      "Jeudi": "09:00-12:15 14:00-19:00",
+      "Vendredi": "09:00-12:15 14:00-19:00",
+      "Samedi": "09:00-12:15"
+    }
+  },
+  {
     "gid": "5fd9cf18",
     "nom": "Pharmacie Bignon",
     "rdv_site_web": "https://www.maiia.com/pharmacie/24120-terrasson-lavilledieu/pharmacie-bignon?centerid=5fd9cf18a0258412cd81986e",
@@ -1378,7 +1379,8 @@
     "rdv_site_web": "https://www.maiia.com/pharmacie/01000-saint-denis-les-bourg/pharmacie-du-printemps?centerid=601029e312d6094f0d3f595b",
     "type": "drugstore",
     "vaccine_type": [
-      "AstraZeneca"
+      "AstraZeneca",
+      "Janssen"
     ],
     "com_insee": "01344",
     "address": "348 Avenue de Trevoux 01000 Saint-Denis-l\u00e8s-Bourg",
@@ -2179,29 +2181,6 @@
     }
   },
   {
-    "gid": "60422cd6",
-    "nom": "Pharmacie de l'\u00eele Barbe",
-    "rdv_site_web": "https://www.maiia.com/pharmacie/69009-lyon/pharmacie-de-l-ile-barbe?centerid=60422cd62871352ceb9f182a",
-    "type": "drugstore",
-    "vaccine_type": [
-      "AstraZeneca"
-    ],
-    "com_insee": "69389",
-    "address": "3 Place Henri Barbusse 69009 Lyon",
-    "long_coor1": 4.829947,
-    "lat_coor1": 45.798196,
-    "phone_number": "+33478839940",
-    "business_hours": {
-      "Lundi": "09:00-12:30 14:00-19:30",
-      "Mardi": "09:00-12:30 14:00-19:30",
-      "Mercredi": "09:00-12:30 14:00-19:30",
-      "Jeudi": "09:00-12:30 14:00-19:30",
-      "Vendredi": "09:00-12:30 14:00-19:30",
-      "Samedi": "09:00-12:30",
-      "Dimanche": "09:00-12:30 14:00-18:30"
-    }
-  },
-  {
     "gid": "6042a697",
     "nom": "Pharmacie de l'Aillantais",
     "rdv_site_web": "https://www.maiia.com/pharmacie/89110-montholon/pharmacie-de-l-aillantais?centerid=6042a6977f3d8265d0a71f8f",
@@ -2486,7 +2465,7 @@
     "address": "20 Av de la Liberation 74300 Cluses",
     "long_coor1": 6.577602,
     "lat_coor1": 46.060117,
-    "phone_number": "+33450980212",
+    "phone_number": "+33450475544",
     "business_hours": {
       "Lundi": "08:15-12:15 14:00-19:00",
       "Mardi": "08:15-12:15 14:00-19:00",
@@ -2563,6 +2542,29 @@
       "Jeudi": "08:30-12:30 14:30-19:30",
       "Vendredi": "08:30-12:30 14:30-19:30",
       "Samedi": "08:30-12:30 14:30-19:30"
+    }
+  },
+  {
+    "gid": "6058b3ab",
+    "nom": "Pharmacie Calvaire Saint Pierre",
+    "rdv_site_web": "https://www.maiia.com/pharmacie/14000-caen/pharmacie-calvaire-saint-pierre?centerid=6058b3abd254f158baffc107",
+    "type": "drugstore",
+    "vaccine_type": [
+      "AstraZeneca"
+    ],
+    "com_insee": "14118",
+    "address": "17 Avenue Professeur Horatio Smith 14000 Caen",
+    "long_coor1": -0.364154,
+    "lat_coor1": 49.197721,
+    "phone_number": "+33231931019",
+    "business_hours": {
+      "Lundi": "09:00-12:30 14:00-19:30",
+      "Mardi": "09:00-12:30 14:00-19:30",
+      "Mercredi": "09:00-12:30 14:00-19:30",
+      "Jeudi": "09:00-12:30 14:00-19:30",
+      "Vendredi": "09:00-12:30 14:00-19:30",
+      "Samedi": "09:00-12:30",
+      "Dimanche": "09:30-12:30 14:00-19:30"
     }
   },
   {
@@ -2653,28 +2655,6 @@
       "Jeudi": "08:30-12:00 14:00-19:15",
       "Vendredi": "08:30-12:00 14:00-19:15",
       "Samedi": "08:30-13:00"
-    }
-  },
-  {
-    "gid": "608fb9e9",
-    "nom": "Pharmacie Bayard",
-    "rdv_site_web": "https://www.maiia.com/pharmacie/38130-echirolles/pharmacie-bayard?centerid=608fb9e9b9a2427d3755130a",
-    "type": "drugstore",
-    "vaccine_type": [
-      "AstraZeneca"
-    ],
-    "com_insee": "38151",
-    "address": "84 Cours Jean Jaures 38130 \u00c9chirolles",
-    "long_coor1": 5.704317,
-    "lat_coor1": 45.145028,
-    "phone_number": "+33476092956",
-    "business_hours": {
-      "Lundi": "09:00-13:00 14:00-19:00",
-      "Mardi": "08:30-13:00 14:00-19:00",
-      "Mercredi": "08:30-13:00 14:00-19:00",
-      "Jeudi": "08:30-13:00 14:00-19:00",
-      "Vendredi": "08:30-13:00 14:00-19:00",
-      "Samedi": "08:30-13:00 14:00-19:00"
     }
   },
   {
